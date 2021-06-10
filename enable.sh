@@ -10,5 +10,4 @@ do
 done
 
 echo "1GB pages successfully enabled"
-./xmrig
 
